@@ -1,0 +1,14 @@
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+$RECYCLE.BIN/
+
+# Arquivos temporários do Microsoft Office
+~$*
+
+# Editores / IDE
+.vscode/
+.idea/
+
+# Variáveis de ambiente
+.env
